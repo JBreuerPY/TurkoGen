@@ -1,0 +1,69 @@
+geliyorum	gel|PRES|1|SG
+geliyordum	gel|PRES|PAST|1|SG
+geliyorsam	gel|PRES|CONDfeature|1|SG
+geliyorduysam	gel|PRES|PAST|CONDfeature|1|SG
+geliyormuşum	gel|PRES|INFER|1|SG
+geliyormuşsam	gel|PRES|INFER|CONDfeature|1|SG
+geleceğim	gel|FUTURE|1|SG
+gelecektim	gel|FUTURE|PAST|1|SG
+geleceksem	gel|FUTURE|CONDfeature|1|SG
+gelecektiysem	gel|FUTURE|PAST|CONDfeature|1|SG
+gelecekmişim	gel|FUTURE|INFER|1|SG
+gelecekmişsem	gel|FUTURE|INFER|CONDfeature|1|SG
+gelirim	gel|AOR|1|SG
+gelirdim	gel|AOR|PAST|1|SG
+gelirsem	gel|AOR|CONDfeature|1|SG
+gelirdiysem	gel|AOR|PAST|CONDfeature|1|SG
+gelirmişim	gel|AOR|INFER|1|SG
+gelirmişsem	gel|AOR|INFER|CONDfeature|1|SG
+gelmişim	gel|MIS|1|SG
+gelmiştim	gel|MIS|PAST|1|SG
+gelmişsem	gel|MIS|CONDfeature|1|SG
+gelmiş idiysem	gel|MIS|PAST|CONDfeature|1|SG
+gelmiş imişim	gel|MIS|INFER|1|SG
+gelmiş imişsem	gel|MIS|INFER|CONDfeature|1|SG
+geldim	gel|DI|1|SG
+geldiydim	gel|DI|PAST|1|SG
+geldiysem	gel|DI|CONDfeature|1|SG
+geldi idiysem	gel|DI|PAST|CONDfeature|1|SG
+gelsem	gel|COND|1|SG
+gelseydim	gel|COND|PAST|1|SG
+gelseymişim	gel|COND|INFER|1|SG
+geleyim	gel|OPT|1|SG
+geleydim	gel|OPT|PAST|1|SG
+geleymişim	gel|OPT|INFER|1|SG
+gelmeliyim	gel|NEC|1|SG
+gelmeliydim	gel|NEC|PAST|1|SG
+gelmeliysem	gel|NEC|CONDfeature|1|SG
+gelmeliydiysem	gel|NEC|PAST|CONDfeature|1|SG
+gelmeliymişim	gel|NEC|INFER|1|SG
+yapabileceksek	yap|POT|FUTURE|CONDfeature|1|PL
+gelmedi	gel|NEG|DI|3|SG
+gelmez	gel|NEG|AOR|3|SG
+gelebilirim	gel|POT|AOR|1|SG
+gelemedi	gel|IMPOT|DI|3|SG
+gelmeyebilirim	gel|NEG|POT|AOR|1|SG
+gelemeyebilirim	gel|IMPOT|POT|AOR|1|SG
+gelmezsin	gel|NEG|AOR|2|SG
+alıyor musun	al|INT|PRES|2|SG
+yaptınız mı	yap|INT|DI|2|PL
+alıyor muydun	al|INT|PRES|PAST|2|SG
+geldiniz miydi	gel|INT|DI|PAST|2|PL
+evdeyim	evde|toBE|1|SG
+evdeydim	evde|toBE|PAST|1|SG
+evdeysem	evde|toBE|CONDfeature|1|SG
+evdeydiysem	evde|toBE|PAST|CONDfeature|1|SG
+evdeydiymişim	evde|toBE|PAST|INFER|1|SG
+evdeymişim	evde|toBE|INFER|1|SG
+evdeymişsem	evde|toBE|CONDfeature|INFER|1|SG
+evde değilim	evde|toBE|NEG|1|SG
+evde miyim	evde|toBE|INT|1|SG
+evde miydim	evde|toBE|INT|PAST|1|SG
+dayanıştırılamayabilecek miymişiz	dayan|RECIP|CAUS|PASS|IMPOT|POT|FUTURE|INT|INFER|1|PL
+bekleyecek	bekle|FUTURE|3|SG
+yıkandırtılmamışsam	yıka|REFL|CAUS2|PASS|NEG|CONDfeature|MIS|1|SG
+tamir ediyorlar	tamir et|PRES|3|PL
+diyelim	de|OPT|1|PL
+yiyeceğiz	ye|FUTURE|1|PL
+gelen	gel|PRES|PART
+geldik	gel|DI|PART
